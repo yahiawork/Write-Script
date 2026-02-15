@@ -1,0 +1,12 @@
+{
+    "Welcome!": {
+        "text": "This is the best script taking app in the world!",
+        "tags": [
+            "good"
+        ]
+    },
+    "Video #1": {
+        "text": "-> [intro]\nWhat's going guys into this video as we'll learn about how to make a windowed PyQt5 App using Python! so just remember to do like and subscribe and let's get reading on it",
+        "tags": []
+    }
+}
